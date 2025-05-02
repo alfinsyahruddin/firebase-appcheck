@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iFirebase</string>
+    <string name="get_secret">Get Secret</string>
+</resources>
